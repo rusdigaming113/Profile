@@ -1,0 +1,246 @@
+.desktop {
+  background-color: transparent;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.desktop .div {
+  overflow: hidden;
+  background: linear-gradient(0deg, rgba(28, 205, 133, 1) 100%);
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(14, 103, 67, 1) 45%,
+    rgba(28, 205, 133, 1) 100%
+  );
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1389px;
+  height: 981px;
+  top: 43px;
+  left: 51px;
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 747px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 252px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+  width: 168px;
+  left: 219px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  position: absolute;
+  top: 5px;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  width: 164px;
+  left: 359px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  top: 5px;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  width: 144px;
+  left: 603px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  top: 5px;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+  width: 144px;
+  left: 494px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  top: 5px;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1389px;
+  height: 951px;
+  top: 30px;
+  left: 0;
+}
+
+.desktop .rumah-impian-hadir {
+  position: absolute;
+  width: 683px;
+  top: 270px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  font-weight: 700;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 663px;
+  top: 110px;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .pngtree-modern-house {
+  position: absolute;
+  width: 809px;
+  height: 951px;
+  top: 0;
+  left: 580px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 220px;
+  height: 74px;
+  top: 447px;
+  left: 20px;
+  background-color: #ffffff;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 22px;
+  left: 16px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #0e6743;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 26px;
+  height: 37px;
+  top: 466px;
+  left: 261px;
+}
+
+.desktop .line {
+  height: 21px;
+  top: 0;
+  position: absolute;
+  width: 26px;
+  left: 0;
+}
+
+.desktop .img {
+  height: 20px;
+  top: 17px;
+  position: absolute;
+  width: 26px;
+  left: 0;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 81px;
+  top: 48px;
+  left: 1107px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 81px;
+  top: 48px;
+  left: 1253px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 83px;
+  height: 40px;
+  top: 3348px;
+  left: 1985px;
+}
